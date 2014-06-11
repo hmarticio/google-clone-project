@@ -81,9 +81,9 @@ table {
 	padding: .4em .8em .4em .8em;
 	font-weight: bold;
 	font-size: .95em;
-	color: white;
+	color: blue;
 	border: none;
-	border-radius: 2px;
+	border-radius: 10px;
 	margin-top: .5em;
 }
 #navbar ul {
